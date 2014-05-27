@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package com.paladion;
+package jkp.xsrf;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
