@@ -12,7 +12,7 @@ package jkp.xsrf.AnalysisEngine;
  */
 public class HTTPReqRespGear {
     /**
-     * This parameter 
+     * This parameter will hold the actual request body.
      */
     private String requestBody;
     
