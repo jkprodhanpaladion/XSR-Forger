@@ -14,7 +14,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author Jayanta Kumar Prodhan at Paladion Networks, Banagalore.
+ * @author Jayanta Kumar Prodhan
  */
 public class XSRForger extends Application {
     
